@@ -120,15 +120,11 @@ Dosyadaki satır, kelime ve karakter sayısını sayar.
 ### 1. useradd
 Yeni kullanıcı oluşturur.
 
-![Relative](/gorseller/1.png)
-
-### 2. userdel
-Kullanıcı siler.
-
-![Relative](/gorseller/1.png)
-
-### 3. passwd
+### 2. passwd
 Şifre değiştirir.
+
+### 3. userdel
+Kullanıcı siler.
 
 ![Relative](/gorseller/1.png)
 
