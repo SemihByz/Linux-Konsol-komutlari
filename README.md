@@ -131,8 +131,6 @@ Kullanıcı siler.
 ### 4. groupadd
 Yeni grup oluşturur.
 
-![Relative](/gorseller/1.png)
-
 ### 5. groupdel
 Grup siler.
 
