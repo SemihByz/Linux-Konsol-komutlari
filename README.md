@@ -69,52 +69,54 @@ Büyük dosyaları sayfa sayfa görüntüler.
 ### 1. uname
 Sistem çekirdeği hakkında bilgi verir.
 
+![Relative](/gorseller/11.png)
+
 + uname -a
 
 Tüm sistem bilgisini verir.
 
-![Relative](/gorseller/11.png)
+![Relative](/gorseller/12.png)
 
 ### 2. whoami
 Geçerli oturumun kullanıcı adını verir.
 
-![Relative](/gorseller/12.png)
+![Relative](/gorseller/13.png)
 
 ### 3. pwd 
 Geçerli çalışma dizinini gösterir.
 
-![Relative](/gorseller/13.png)
+![Relative](/gorseller/14.png)
 
 ### 4. cal
 Takvim gösterir.
 
-![Relative](/gorseller/14.png)
+![Relative](/gorseller/15.png)
 
 ### 5. date
 Sistem saati ve tarihi gösterir.
 
-![Relative](/gorseller/15.png)
+![Relative](/gorseller/16.png)
 
 ### 6. uptime
 Sistemin ne kadar süredir çalıştığını gösterir.
 
-![Relative](/gorseller/16.png)
+![Relative](/gorseller/17.png)
 
 ## 3. Arama ve Filtreleme
 ### 1. find
 Belirtilen kriterlere uygun dosyaları bulur.
 
-![Relative](/gorseller/17.png)
+![Relative](/gorseller/18.png)
 
 ### 2. grep
 Dosyalar içinde belirli bir metin veya desen arama yapar.
 
-![Relative](/gorseller/18.png)
+![Relative](/gorseller/19.png)
 
 ### 3. wc
 Dosyadaki satır, kelime ve karakter sayısını sayar.
 
-![Relative](/gorseller/19.png)
+![Relative](/gorseller/20.png)
 
 ## 4. Kullanıcı ve Grup Yönetimi
 ### 1. useradd
@@ -126,7 +128,7 @@ Yeni kullanıcı oluşturur.
 ### 3. userdel
 Kullanıcı siler.
 
-![Relative](/gorseller/20.png)
+![Relative](/gorseller/21.png)
 
 ### 4. groupadd
 Yeni grup oluşturur.
@@ -134,12 +136,13 @@ Yeni grup oluşturur.
 ### 5. groupdel
 Grup siler.
 
-![Relative](/gorseller/21.png)
+![Relative](/gorseller/22.png)
 
 ## 5. Paket Yönetimi (Dağıtıma göre değişebilir)
 ### 1. apt
 (Debian/Ubuntu) Paket yükleme, güncelleme ve kaldırma
 
+![Relative](/gorseller/23.png)
 
 ### 2. yum
 (Fedora, CentOS) Paket yükleme, güncelleme ve kaldırma
